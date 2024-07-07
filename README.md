@@ -2,8 +2,8 @@
 Welcome to the Telco Customer Churn Prediction project! Using machine learning, this project will predict telco customer churn to help retain customers and drive business growth.
 ---
 
-Predicting Customer Churn: A Machine Learning Approach
-Introduction
+# Predicting Customer Churn: A Machine Learning Approach
+## Introduction
 Customer churn is a critical issue for businesses, especially in the telecommunications industry. Understanding and predicting when a customer might leave can significantly impact a company's strategies and operations. In this project, we developed a machine learning model to predict whether a customer will churn based on specific inputs. The project was titled "Telco Customer Churn Machine Learning Predictor."
 Project Overview
 The project involved several key steps:
